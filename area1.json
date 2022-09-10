@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "area1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OrderDesc": "AOI 1", "area_name": "Shobra El Bahow-Aga-Dakahlia", "area_type": "Boundary" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 31.36047, 30.94699 ], [ 31.3549, 30.94279 ], [ 31.35386, 30.94583 ], [ 31.35026, 30.94684 ], [ 31.35284, 30.95568 ], [ 31.35508, 30.96204 ], [ 31.35723, 30.96268 ], [ 31.36013, 30.96105 ], [ 31.36043, 30.95845 ], [ 31.35888, 30.95388 ], [ 31.3611, 30.95212 ], [ 31.36047, 30.94699 ] ] ] ] } }
+]
+}
